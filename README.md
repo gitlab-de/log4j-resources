@@ -28,6 +28,9 @@ Apache Log4j, versions 2.0-2.14.1 have a vulnerability to remote code execution 
 - [WhiteSource](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228/)
 - [Veracode](https://www.veracode.com/blog/security-news/urgent-analysis-and-remediation-guidance-log4j-zero-day-rce-cve-2021-44228)
 
+### CI/CD 
+- [Jenkins][https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/]
+
 ## Mitigating the vulnerability
 The best way to mitigate the vulnerability is to update any application using Log4j to version 2.15.0+.  However, there have been many other discussions of how to mitigate the vulnerability short of that.
 
