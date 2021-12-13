@@ -20,7 +20,8 @@ Apache Log4j, versions 2.0-2.14.1 have a vulnerability to remote code execution 
 - [‘The Internet Is on Fire’](https://www.wired.com/story/log4j-flaw-hacking-internet/) by Wired
 
 ## Detecting the vulnerability
-
+- [GitLab dependancy scanning](https://docs.gitlab.com/ee/user/application_security/dependency_scanning/)
+- [Synk](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/)
 
 ## Mitigating the vulnerability
 
