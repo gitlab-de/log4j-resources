@@ -44,11 +44,16 @@ Upgrade log4j to the latest 2.16.0 release to fix the vulnerability.
 - [WhiteSource](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228/)
 - [Veracode](https://www.veracode.com/blog/security-news/urgent-analysis-and-remediation-guidance-log4j-zero-day-rce-cve-2021-44228)
 
+### CI/CD 
+
+- [Jenkins][https://www.jenkins.io/blog/2021/12/10/log4j2-rce-CVE-2021-44228/]
+
 ### Guides
 
 - [Container Scanning](container_scanning.md)
 
-## Tools
+### Tools
+
 Community projects and discussions; they have not been tested. Be advised to evaluate and asses their usability on your own. 
 
 - [GitLab search tools forum topic](https://forum.gitlab.com/t/search-code-across-all-projects/2263/19?u=dnsmichi)
