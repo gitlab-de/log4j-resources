@@ -1,8 +1,8 @@
-# Log4j CVE-2021-44228 Resources 
+# 💡 Log4j CVE-2021-44228, CVE-2021-45046 Resources 
 
 This repository is designed to be a collection of resources to learn about, detect and mitigate the impact of the Log4j vulnerability - more formally known as [CVE-2021-44228](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-44228).
 
-Below you can find a set of links to resources organized by topic area.  If you want to add resources, you can [fork](https://gitlab.com/gitlab-de/log4j-resources/-/forks/new) this repository and create a merge request.
+Below you can find a set of links to resources organized by topic area.  If you want to add resources, you can [fork](https://gitlab.com/gitlab-de/log4j-resources/-/forks/new) this repository on GitLab.com and create a merge request. This repository is mirrored to [GitHub](https://github.com/gitlab-de/log4j-resources). 
 
 ## About the vulnerability
 Apache Log4j, versions 2.0-2.14.1 have a vulnerability to remote code execution (RCE). It is remotely exploitable without authentication, i.e., attackers may exploit it over a network without the need for a username and password.
