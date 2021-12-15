@@ -26,6 +26,7 @@ Upgrade log4j to the latest 2.16.0 release to fix the vulnerability.
 ### Security Advisories
 - [This GitHub gist](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592) contains an extensive list of the various security advisories from cloud, software, and SaaS companies about CVE-2021-44228.
 - [CISA Log4j (CVE-2021-44228) Vulnerability Guidance](https://github.com/cisagov/log4j-affected-db)
+- [Updates and actions to address Log4j CVE 2021 44228 and CVE 2021 45046 in GitLab](https://about.gitlab.com/blog/2021/12/15/updates-and-actions-to-address-logj-in-gitlab/)
 
 ### Other
 - [Software related to or impacted by the Log4j vulnerability](https://github.com/NCSC-NL/log4shell/tree/main/software)
