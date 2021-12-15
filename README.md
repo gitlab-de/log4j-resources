@@ -35,6 +35,7 @@ Upgrade log4j to the latest 2.16.0 release to fix the vulnerability.
 - [‘The Internet Is on Fire’](https://www.wired.com/story/log4j-flaw-hacking-internet/) by Wired
 
 ## Detecting the vulnerability
+
 ### Security Vendors
 - [Checkmarx](https://checkmarx.com/blog/apache-log4j-remote-code-execution-cve-2021-44228/)
 - [Contrast Security](https://www.contrastsecurity.com/security-influencers/0-day-detection-of-log4j2-vulnerability)
@@ -42,6 +43,10 @@ Upgrade log4j to the latest 2.16.0 release to fix the vulnerability.
 - [Synk](https://snyk.io/blog/find-fix-log4shell-quickly-snyk/)
 - [WhiteSource](https://www.whitesourcesoftware.com/resources/blog/log4j-vulnerability-cve-2021-44228/)
 - [Veracode](https://www.veracode.com/blog/security-news/urgent-analysis-and-remediation-guidance-log4j-zero-day-rce-cve-2021-44228)
+
+### Guides
+
+- [Container Scanning](container_scanning.md)
 
 ## Tools
 Community projects and discussions; they have not been tested. Be advised to evaluate and asses their usability on your own. 
