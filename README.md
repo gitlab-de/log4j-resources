@@ -61,7 +61,7 @@ Community projects and discussions; they have not been tested. Be advised to eva
 
 ## 🛡️ Mitigating the vulnerability
 
-The best way to mitigate the vulnerability is to update any application using Log4j to version 2.15.0+.  However, there have been many other discussions of how to mitigate the vulnerability short of that.
+The best way to mitigate the vulnerability is to update any application using Log4j to version 2.16.0+.  However, there have been many other discussions of how to mitigate the vulnerability short of that.
 
 - Disable message lookups.  These are availabe in Log4j 2.10 - 2.14.1 and requires restarting the process.
   - Adding `-Dlog4j2.formatMsgNoLookups=true` to processes running Log4j 2.10 - 2.14.1.  
