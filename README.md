@@ -4,6 +4,20 @@ This repository is designed to be a collection of resources to learn about, dete
 
 Below you can find a set of links to resources organized by topic area.  If you want to add resources, you can [fork](https://gitlab.com/gitlab-de/log4j-resources/-/forks/new) this repository on GitLab.com and create a merge request. [This repository on GitLab](https://gitlab.com/gitlab-de/log4j-resources) is mirrored to [GitHub](https://github.com/gitlab-de/log4j-resources). 
 
+#### Table of content
+
+* [About the vulnerability](#-about-the-vulnerability)
+  * [Software updates](#-software-updates)
+  * [CVE information](#-cve-information)
+  * [Security advisories](#-security-advisories)
+  * [Other](#-other)
+* [Detecting the vulnerability](#-detecting-the-vulnerability)
+  * [Security Vendors](#-security-vendors)
+  * [Guides](#-guides)
+  * [Community tools and articles](#-community-tools-and-articles)
+* [Mitigating the vulnerability](#-mitigating-the-vulnerability)
+
+
 ## ❔ About the vulnerability
 
 Apache Log4j, versions 2.0-2.14.1 have a vulnerability to remote code execution (RCE). It is remotely exploitable without authentication, i.e., attackers may exploit it over a network without the need for a username and password.
