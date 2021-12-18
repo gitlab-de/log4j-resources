@@ -15,7 +15,7 @@ New vulnverabilities have been discovered and fixed, see _Software updates_ belo
 Upgrade log4j to the latest release to fix the vulnerabilities.
 
 - [log4j 2.17.0](https://logging.apache.org/log4j/2.x/changes-report.html#a2.17.0) fixes [CVE-2021-45105](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45105), where log4j does not always protect from infinite recursion, leading to DoS attacks.
-- [log4j 2.16.0](https://logging.apache.org/log4j/2.x/changes-report.html#a2.16.0) removes support for message lookups, and disables JNDI by default. Fixes [CVE-2021-45046](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45046) with raused critical severity, RCE possibility. 
+- [log4j 2.16.0](https://logging.apache.org/log4j/2.x/changes-report.html#a2.16.0) removes support for message lookups, and disables JNDI by default. Fixes [CVE-2021-45046](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-45046) with raised critical severity, RCE possibility. 
 - [log4j 2.15.0](https://logging.apache.org/log4j/2.x/changes-report.html#a2.15.0) fixes the vulnerability in [CVE-2021-44228](https://logging.apache.org/log4j/2.x/security.html#CVE-2021-44228) but left JNDI lookups enabled by default.
 
 ### 📄 CVE Information
@@ -58,11 +58,12 @@ Upgrade log4j to the latest release to fix the vulnerabilities.
 
 - [Container Scanning](container_scanning.md)
 
-### 📈 Tools
+### 📈 Community tools and articles
 
 Community projects and discussions; they have not been tested. Be advised to evaluate and asses their usability on your own. 
 
 - [GitLab search tools forum topic](https://forum.gitlab.com/t/search-code-across-all-projects/2263/19?u=dnsmichi)
+- [Mitigate Log4j2 / Log4Shell in Elasticsearch](https://xeraa.net/blog/2021_mitigate-log4j2-log4shell-elasticsearch/) by Philipp Krenn
 
 ## 🛡️ Mitigating the vulnerability
 
