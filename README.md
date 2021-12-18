@@ -13,9 +13,9 @@ Below you can find a set of links to resources organized by topic area.  If you 
   * [Other](#-other)
 * [Detecting the vulnerability](#-detecting-the-vulnerability)
   * [Security Vendors](#-security-vendors)
-  * [Guides](#-guides)
+  * [Guides](#%EF%B8%8F-guides)
   * [Community tools and articles](#-community-tools-and-articles)
-* [Mitigating the vulnerability](#-mitigating-the-vulnerability)
+* [Mitigating the vulnerability](#%EF%B8%8F-mitigating-the-vulnerability)
 
 
 ## ❔ About the vulnerability
